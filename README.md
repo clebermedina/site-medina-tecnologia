@@ -1,7 +1,5 @@
 # Website Institucional - Medina Tecnologia
 
-![Medina Tecnologia Logo](images/logo.jpg)
-
 Site institucional da **Medina Tecnologia**
 
 **➡️ Acessar o site:** **[https://medinatecnologia.com.br](https://medinatecnologia.com.br)**
