@@ -18,5 +18,4 @@ Site institucional da **Medina Tecnologia**
 <p align="center">
   Desenvolvido por <b>Cleber Medina</b>
   <br>
-  &copy; 2025 Medina Tecnologia
 </p>
